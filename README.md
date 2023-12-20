@@ -1,4 +1,4 @@
 # geet-demo
 This is my first GIT repository
 <br>
-Author - Geetika Paliwal
+Author - Geetika (me)
